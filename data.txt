@@ -1,0 +1,10 @@
+what is 4*4?
+16
+25
+44
+24
+what does R stand for in RGBA?
+red
+rocket
+right
+road
